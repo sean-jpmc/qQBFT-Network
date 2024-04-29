@@ -99,3 +99,7 @@ export PRIVATE_CONFIG=ignore
     --unlock ${ADDRESS} --allow-insecure-unlock --password ./data/keystore/accountPassword \
     --port 30301
 ```
+
+```
+/Users/smatthewenglish/Workbench/quorum/build/bin/geth attach data/geth.ipc
+```
